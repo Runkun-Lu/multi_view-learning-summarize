@@ -6,4 +6,4 @@
 5. [Multiple View Geometry in Computer Vision](http://www.robots.ox.ac.uk/~vgg/hzbook/index.html) (Note: this is Multiple View Geometry, not multi-view learning. But I think we can implement multi-view learning in the feild of Multiple View Geometry). ([code](http://www.robots.ox.ac.uk/~vgg/hzbook/code/))
 6. [Multi-view low-rank sparse subspace clustering](https://www.sciencedirect.com/science/article/pii/S0031320317303370).  ([code](https://github.com/mbrbic/Multi-view-LRSSC))
 7. [Vehicle Pose and Shape Estimation through Multiple Monocular Vision](https://ieeexplore.ieee.org/abstract/document/8665155). ([code](https://github.com/GilgameshD/Multiple-View-Car-Localization))
-
+8. [Binary Multi-View Clustering](https://ieeexplore.ieee.org/document/8387526). ([code](https://github.com/DarrenZZhang/BMVC))
