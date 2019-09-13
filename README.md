@@ -11,3 +11,6 @@
 10. Matching People across Camera Views using Kernel Canonical Correlation Analysis. ([paper](https://dl.acm.org/citation.cfm?doid=2659021.2659036), [code](https://github.com/glisanti/KCCAReId))
 11. Multi Channel-Kernel Canonical Correlation Analysis for Cross-View Person Re-Identification. ([paper](https://dl.acm.org/citation.cfm?id=3038916), [code](https://github.com/glisanti/MCK-CCA))
 12. Multiple Incomplete Views Clustering via Weighted Nonnegative Matrix Factorization with   L2,1  Regularization. ([paper](https://link.springer.com/chapter/10.1007/978-3-319-23528-8_20), [code](https://github.com/software-shao/Multi-Incomplete-view-Clustering))
+13. Multi-view clustering. ([paper](https://ieeexplore.ieee.org/document/1410262), code([matlab](https://github.com/software-shao/Multi-View-Clustering), [R](https://github.com/amaunz/mvc)))
+14. Online Multi-view Clustering with Incomplete Views. ([paper](https://ieeexplore.ieee.org/document/7840701), [code](https://github.com/software-shao/online-multiview-clustering-with-incomplete-view))
+15. Online Unsupervised Multi-view Feature Selection. ([paper](https://ieeexplore.ieee.org/document/7837973), [code](https://github.com/software-shao/Online-Unsupervised-Multiview-Feature-Selection))
