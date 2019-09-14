@@ -23,3 +23,4 @@
 21. Feature extraction via multi-view non-negative matrix factorization with local graph regularization. ([paper](https://ieeexplore.ieee.org/abstract/document/7351455), [code](https://github.com/DUT-DIPLab/Graph-Multi-NMF-Feature-Clustering))
 22. Partial Multi-view Outlier Detection Based on Collective Learning. ([paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17166), [code](https://github.com/eeGuoJun/AAAI2018_CL))
 23. Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization. ([paper](https://link.springer.com/chapter/10.1007/978-3-030-11018-5_47), [code](https://github.com/DarrenZZhang/IMC_GRMF))
+24. Local kernel alignment based multi-view clustering using extreme learning machine. ([paper](https://www.sciencedirect.com/science/article/pii/S0925231217315795?via=ihub), [code](https://github.com/frash1989/Local-Kernel-Alignment-Based-Multi-view-Clustering-Using-ELM))
