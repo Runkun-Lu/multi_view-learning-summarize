@@ -24,3 +24,5 @@
 22. Partial Multi-view Outlier Detection Based on Collective Learning. ([paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17166), [code](https://github.com/eeGuoJun/AAAI2018_CL))
 23. Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization. ([paper](https://link.springer.com/chapter/10.1007/978-3-030-11018-5_47), [code](https://github.com/DarrenZZhang/IMC_GRMF))
 24. Local kernel alignment based multi-view clustering using extreme learning machine. ([paper](https://www.sciencedirect.com/science/article/pii/S0925231217315795?via=ihub), [code](https://github.com/frash1989/Local-Kernel-Alignment-Based-Multi-view-Clustering-Using-ELM))
+25. Reconstructing Perceived Images From Human Brain Activities With Bayesian Deep Multiview Learning. ([paper](https://ieeexplore.ieee.org/document/8574054), [code](https://github.com/ChangdeDu/DGMM))
+26. Multi-View Dynamic Facial Action Unit Detection. ([paper](https://arxiv.org/pdf/1704.07863.pdf), [code](https://github.com/BCV-Uniandes/AUNets))
