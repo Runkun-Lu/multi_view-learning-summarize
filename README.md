@@ -1,3 +1,4 @@
+
 **Some papers and its corresponding source code:**
 1. DeepMVS: Learning Multi-View Stereopsis. ([paper](https://arxiv.org/abs/1804.00650v1), [code&data](https://phuang17.github.io/DeepMVS/index.html))
 2.  Multi-view Face Detection Using Deep Convolutional Neural Networks. ([paper](https://dl.acm.org/citation.cfm?doid=2671188.2749408), [code1](https://github.com/do4am/Face-Detection-using-Deep-Learning), [code2](https://github.com/guoyilin/FaceDetection_CNN), [code3](https://github.com/PuchatekwSzortach/face_detection))
@@ -14,3 +15,11 @@
 13. Multi-view clustering. ([paper](https://ieeexplore.ieee.org/document/1410262), code([matlab](https://github.com/software-shao/Multi-View-Clustering), [R](https://github.com/amaunz/mvc)))
 14. Online Multi-view Clustering with Incomplete Views. ([paper](https://ieeexplore.ieee.org/document/7840701), [code](https://github.com/software-shao/online-multiview-clustering-with-incomplete-view))
 15. Online Unsupervised Multi-view Feature Selection. ([paper](https://ieeexplore.ieee.org/document/7837973), [code](https://github.com/software-shao/Online-Unsupervised-Multiview-Feature-Selection))
+16. Heterogeneous image feature integration via multi-modal spectral clustering. ([paper](https://ieeexplore.ieee.org/abstract/document/5995740), [code](https://github.com/frash1989/ELM-MVClustering/tree/master/MMSC-ELM))
+17. Robust Multi-View Spectral Clustering via Low-Rank and Sparse Decomposition. ([paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewPaper/8135), [code](https://github.com/frash1989/ELM-MVClustering/tree/master/RMSC-ELM))
+18. Projective Feature Learning for 3D Shapes with Multi-View Depth Images. ([paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12740), [code](http://kevinkaixu.net/projects/pfl.html))
+19. Multi-View Clustering and Feature Learning via Structured Sparsity. ([paper](http://proceedings.mlr.press/v28/wang13c.html), [code](https://github.com/zzz123xyz/MVCSS))
+20. Large-Scale Multi-View Spectral Clustering via Bipartite Graph. ([paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9641), [code](https://github.com/zzz123xyz/MVSC))
+21. Feature extraction via multi-view non-negative matrix factorization with local graph regularization. ([paper](https://ieeexplore.ieee.org/abstract/document/7351455), [code](https://github.com/DUT-DIPLab/Graph-Multi-NMF-Feature-Clustering))
+22. Partial Multi-view Outlier Detection Based on Collective Learning. ([paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17166), [code](https://github.com/eeGuoJun/AAAI2018_CL))
+23. Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization. ([paper](https://link.springer.com/chapter/10.1007/978-3-030-11018-5_47), [code](https://github.com/DarrenZZhang/IMC_GRMF))
