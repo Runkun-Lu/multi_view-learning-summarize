@@ -29,15 +29,27 @@
 
 **data set:**
 *1*. [ALOI](http://elki.dbs.ifi.lmu.de/wiki/DataSets/MultiView) 
+
 *2*. [20 NewsGroup](http://qwone.com/~jason/20Newsgroups/)
+
 *3*. [Mfeat](https://archive.ics.uci.edu/ml/datasets/Multiple+Features)
+
 *4*. [3Sources](http://mlg.ucd.ie/datasets/3sources.html)
+
 *5*. [synthetic text](http://mlg.ucd.ie/datasets/segment.html) (BBC, BBCSport)
+
 *6*. [Reuters](http://lig-membres.imag.fr/grimal/data.html)
+
 *7*. [Animals with Attributes](https://cvml.ist.ac.at/AwA/)
+
 *8*. [WebKB](http://lig-membres.imag.fr/grimal/data.html) (Cornell, Texas, Washington, Wisconsin)
+
 *9*. [Movies](Movies%20dataset)
+
 *10*. [Cora](http://lig-membres.imag.fr/grimal/data.html)
+
 *11*. [CiteSeer](http://lig-membres.imag.fr/grimal/data.html)
+
 *12*. NUS-WIDE (网址暂时失效)
+
 *13*. [Multi-view Twitter](http://mlg.ucd.ie/aggregation/index.html)
