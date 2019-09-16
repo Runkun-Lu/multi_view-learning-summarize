@@ -26,3 +26,18 @@
 24. Local kernel alignment based multi-view clustering using extreme learning machine. ([paper](https://www.sciencedirect.com/science/article/pii/S0925231217315795?via=ihub), [code](https://github.com/frash1989/Local-Kernel-Alignment-Based-Multi-view-Clustering-Using-ELM))
 25. Reconstructing Perceived Images From Human Brain Activities With Bayesian Deep Multiview Learning. ([paper](https://ieeexplore.ieee.org/document/8574054), [code](https://github.com/ChangdeDu/DGMM))
 26. Multi-View Dynamic Facial Action Unit Detection. ([paper](https://arxiv.org/pdf/1704.07863.pdf), [code](https://github.com/BCV-Uniandes/AUNets))
+
+**data set:**
+*1*. [ALOI](http://elki.dbs.ifi.lmu.de/wiki/DataSets/MultiView) 
+*2*. [20 NewsGroup](http://qwone.com/~jason/20Newsgroups/)
+*3*. [Mfeat](https://archive.ics.uci.edu/ml/datasets/Multiple+Features)
+*4*. [3Sources](http://mlg.ucd.ie/datasets/3sources.html)
+*5*. [synthetic text](http://mlg.ucd.ie/datasets/segment.html) (BBC, BBCSport)
+*6*. [Reuters](http://lig-membres.imag.fr/grimal/data.html)
+*7*. [Animals with Attributes](https://cvml.ist.ac.at/AwA/)
+*8*. [WebKB](http://lig-membres.imag.fr/grimal/data.html) (Cornell, Texas, Washington, Wisconsin)
+*9*. [Movies](Movies%20dataset)
+*10*. [Cora](http://lig-membres.imag.fr/grimal/data.html)
+*11*. [CiteSeer](http://lig-membres.imag.fr/grimal/data.html)
+*12*. NUS-WIDE (网址暂时失效)
+*13*. [Multi-view Twitter](http://mlg.ucd.ie/aggregation/index.html)
