@@ -26,6 +26,7 @@
 24. Local kernel alignment based multi-view clustering using extreme learning machine. ([paper](https://www.sciencedirect.com/science/article/pii/S0925231217315795?via=ihub), [code](https://github.com/frash1989/Local-Kernel-Alignment-Based-Multi-view-Clustering-Using-ELM))
 25. Reconstructing Perceived Images From Human Brain Activities With Bayesian Deep Multiview Learning. ([paper](https://ieeexplore.ieee.org/document/8574054), [code](https://github.com/ChangdeDu/DGMM))
 26. Multi-View Dynamic Facial Action Unit Detection. ([paper](https://arxiv.org/pdf/1704.07863.pdf), [code](https://github.com/BCV-Uniandes/AUNets))
+27. Constrained Multi-View Video Face Clustering. ([paper](https://ieeexplore.ieee.org/abstract/document/7173037), [code](https://bitbucket.org/chengjuzhou/constrained-multi-view-video-face-clustering/src/master/))
 
 **data set:** 
 
