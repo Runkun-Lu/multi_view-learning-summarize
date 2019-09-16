@@ -27,7 +27,8 @@
 25. Reconstructing Perceived Images From Human Brain Activities With Bayesian Deep Multiview Learning. ([paper](https://ieeexplore.ieee.org/document/8574054), [code](https://github.com/ChangdeDu/DGMM))
 26. Multi-View Dynamic Facial Action Unit Detection. ([paper](https://arxiv.org/pdf/1704.07863.pdf), [code](https://github.com/BCV-Uniandes/AUNets))
 
-**data set:** \\
+**data set:** 
+
 *1*. [ALOI](http://elki.dbs.ifi.lmu.de/wiki/DataSets/MultiView) 
 
 *2*. [20 NewsGroup](http://qwone.com/~jason/20Newsgroups/)
