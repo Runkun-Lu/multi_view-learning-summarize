@@ -27,31 +27,19 @@
 25. Reconstructing Perceived Images From Human Brain Activities With Bayesian Deep Multiview Learning. ([paper](https://ieeexplore.ieee.org/document/8574054), [code](https://github.com/ChangdeDu/DGMM))
 26. Multi-View Dynamic Facial Action Unit Detection. ([paper](https://arxiv.org/pdf/1704.07863.pdf), [code](https://github.com/BCV-Uniandes/AUNets))
 27. Constrained Multi-View Video Face Clustering. ([paper](https://ieeexplore.ieee.org/abstract/document/7173037), [code](https://bitbucket.org/chengjuzhou/constrained-multi-view-video-face-clustering/src/master/))
+28. Consistent and Specific Multi-view Subspace Clustering. ([paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16212), [code](https://github.com/XIAOCHUN-CAS/Consistent-and-Specific-Multi-View-Subspace-Clustering))
 
-**data set:** 
-
-*1*. [ALOI](http://elki.dbs.ifi.lmu.de/wiki/DataSets/MultiView) 
-
-*2*. [20 NewsGroup](http://qwone.com/~jason/20Newsgroups/)
-
-*3*. [Mfeat](https://archive.ics.uci.edu/ml/datasets/Multiple+Features)
-
-*4*. [3Sources](http://mlg.ucd.ie/datasets/3sources.html)
-
-*5*. [synthetic text](http://mlg.ucd.ie/datasets/segment.html) (BBC, BBCSport)
-
-*6*. [Reuters](http://lig-membres.imag.fr/grimal/data.html)
-
-*7*. [Animals with Attributes](https://cvml.ist.ac.at/AwA/)
-
-*8*. [WebKB](http://lig-membres.imag.fr/grimal/data.html) (Cornell, Texas, Washington, Wisconsin)
-
-*9*. [Movies](Movies%20dataset)
-
-*10*. [Cora](http://lig-membres.imag.fr/grimal/data.html)
-
-*11*. [CiteSeer](http://lig-membres.imag.fr/grimal/data.html)
-
-*12*. NUS-WIDE (网址暂时失效)
-
-*13*. [Multi-view Twitter](http://mlg.ucd.ie/aggregation/index.html)
+**data set:**
+*1*. [ALOI](http://elki.dbs.ifi.lmu.de/wiki/DataSets/MultiView)  < br >
+*2*. [20 NewsGroup](http://qwone.com/~jason/20Newsgroups/) < br >
+*3*. [Mfeat](https://archive.ics.uci.edu/ml/datasets/Multiple+Features) < br >
+*4*. [3Sources](http://mlg.ucd.ie/datasets/3sources.html) < br >
+*5*. [synthetic text](http://mlg.ucd.ie/datasets/segment.html) (BBC, BBCSport) < br >
+*6*. [Reuters](http://lig-membres.imag.fr/grimal/data.html) < br >
+*7*. [Animals with Attributes](https://cvml.ist.ac.at/AwA/) < br >
+*8*. [WebKB](http://lig-membres.imag.fr/grimal/data.html) (Cornell, Texas, Washington, Wisconsin) < br >
+*9*. [Movies](Movies%20dataset) < br >
+*10*. [Cora](http://lig-membres.imag.fr/grimal/data.html) < br >
+*11*. [CiteSeer](http://lig-membres.imag.fr/grimal/data.html) < br >
+*12*. NUS-WIDE (网址暂时失效) < br >
+*13*. [Multi-view Twitter](http://mlg.ucd.ie/aggregation/index.html) < br >
