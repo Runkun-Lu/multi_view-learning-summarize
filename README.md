@@ -55,6 +55,6 @@
 
 *11*. [CiteSeer](http://lig-membres.imag.fr/grimal/data.html)
 
-*12*. NUS-WIDE (网址暂时失效)
+*12*. [NUS-WIDE] (https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html)
 
 *13*. [Multi-view Twitter](http://mlg.ucd.ie/aggregation/index.html)
