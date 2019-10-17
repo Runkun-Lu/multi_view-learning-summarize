@@ -30,6 +30,7 @@
 28. Consistent and Specific Multi-view Subspace Clustering. ([paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16212), [code](https://github.com/XIAOCHUN-CAS/Consistent-and-Specific-Multi-View-Subspace-Clustering))
 29. Multi-View Clustering via Deep Matrix Factorization. ([paper](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14647), [code](https://github.com/hdzhao/DMF_MVC))
 30. COMIC: Multi-view Clustering Without Parameter Selection. ([paper](http://proceedings.mlr.press/v97/peng19a/peng19a.pdf), [code](https://github.com/limit-scu/2019-ICML-COMIC?tdsourcetag=s_pctim_aiomsg))
+31. Neural News Recommendation with Attentive Multi-View Learning. ([paper](https://wuch15.github.io/paper/IJCAI19NAML.pdf), [code](https://github.com/wuch15/IJCAI2019-NAML))
 
 **data set:** 
 
