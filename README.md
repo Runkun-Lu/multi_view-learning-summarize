@@ -33,6 +33,7 @@
 31. Neural News Recommendation with Attentive Multi-View Learning. ([paper](https://wuch15.github.io/paper/IJCAI19NAML.pdf), [code](https://github.com/wuch15/IJCAI2019-NAML))
 32. MV-RNN: A Multi-View Recurrent Neural Network for Sequential Recommendation. ([paper](https://ieeexplore.ieee.org/abstract/document/8534409), [code](https://github.com/CRIPAC-DIG/MV-RNN))
 33. COMIC: Multi-view Clustering Without Parameter Selection. ([paper](http://proceedings.mlr.press/v97/peng19a.html), [code](https://github.com/limit-scu/2019-ICML-COMIC/tree/master/COMIC-release))
+34. Multi-view Deep Subspace Clustering Network, ([paper](https://arxiv.org/pdf/1908.01978v1.pdf), [code](https://github.com/huybery/MvDSCN))
 
 **data set:** 
 
